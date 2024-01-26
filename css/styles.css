@@ -4,7 +4,7 @@
 
 body {
   width: 100%;
-  height: 8431px;
+  height: 7930px;
 }
   
 .group-1 {
@@ -42,6 +42,10 @@ body {
     left: 35%;
     bottom: 5vh;
   }
+
+main {
+  height: 7427px;
+}
 
   .img1 {
     width: 100%;
@@ -442,3 +446,15 @@ body {
   border-radius: 8px;
   border: 2px solid #FFF;
 }
+
+footer {
+  width: 100%;
+  height: 449px;
+  flex-shrink: 0;
+  background-color: #2f333c;
+  position: absolute;
+}
+ .medialogo {
+  margin-left: 47%;
+  margin-right: 25%;
+ }

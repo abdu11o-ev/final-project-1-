@@ -431,3 +431,128 @@
   font-weight: 700;
   line-height: normal;
 }
+
+.text-31 {
+  margin-top: 57px;
+  color: #FFF;
+  font-family: "Times New Roman";
+  font-size: 69.189px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 15%;
+}
+
+.text-32 {
+  color: #FFF;
+  text-align: center;
+  font-family: "Times New Roman";
+  font-size: 8.124px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -64px;
+  margin-left: 55px;
+}
+
+.text-33 {
+  color: #FFF;
+  text-align: center;
+  font-family: "Times New Roman";
+  font-size: 8.124px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -56px;
+  margin-left: 60px;
+}
+
+.text-34 {
+  width: 121px;
+  height: 21px;
+  margin-top: 84px;
+  margin-left: 15%;
+  color: #FFF;
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.text-35 {
+  width: 329px;
+  height: 63px;
+  margin-top: 4px;
+  margin-left: 15%;
+  color: rgba(255, 255, 255, 0.53);
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.text-36 {
+  margin-top: 105px;
+  color: #FFF;
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.text-37 {
+  width: 93px;
+  height: 106px;
+  margin-top: 9px;
+  flex-shrink: 0;
+  color: rgba(255, 255, 255, 0.53);
+  text-align: center;
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.text-38 {
+  color: #FFF;
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 0;
+}
+
+.text-39 {
+  color: rgba(255, 255, 255, 0.53);
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.text-40 {
+  color: #FFF;
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 100px;
+}
+
+.text-41 {
+  color: #FFF;
+  text-align: center;
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 65px;
+}
