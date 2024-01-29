@@ -1,0 +1,157 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  min-height: 4270px;
+}
+  
+.group-1 {
+    width: 102px;
+    height: 46px;
+    margin-left: 20%;
+    margin-top: 6vh;
+    margin-bottom: 3vh;
+  }
+  
+.overlap-group-1 {
+    position: relative;
+    width: 98px;
+    height: 46px;
+  }
+  
+.zero-gravity-3 {
+    position: absolute;
+    top: 19px;
+    left: 66px;
+    font-family: "Times New Roman-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 4.7px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+.navbar {
+    position: absolute;
+    width: 469px;
+    height: 22px;
+    top: 8vh;
+    left: 35%;
+    bottom: 5vh;
+  }
+
+main {
+    width: 100%;
+    min-height: 4216px;
+}
+
+.img-1 {
+  width: 100%;
+  height: 288px;
+  background-image: url(../images/Rectangle\ 55.png);
+}
+
+
+.container-1 {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background: #D6F0FF;
+  width: 120px;
+}
+
+.container-2 {
+  width: 292px;
+  height: 1545px;
+  flex-shrink: 0;
+  background-color: #fafafa;
+  margin-top: 16px;
+}
+
+.container-3 {
+  width: 700px;
+}
+
+.form-control {
+  border: 0;
+}
+
+.modal-input {
+  border: 0px;
+  background-color: #f4f4f4;
+  margin-top: 20px;
+}
+
+.container-4 {
+  width: 271.007px;
+  height: 1px;
+  background-color: #000000;
+}
+
+.modal-input:focus-visible {
+  outline: 0;
+}
+
+.btn-1 {
+  display: flex;
+  width: 209px;
+  height: 53px;
+  padding: 17px 8px;
+  justify-content: center;
+  align-items: center;
+  gap: 11px;
+  flex-shrink: 0;
+  margin-left: 30%;
+  margin-bottom: 188px;
+} 
+
+.cont-3 {
+  background-image: url(../images/Rectangle\ 73.jpg);
+  width: 102%;
+  height: 383px;
+  flex-shrink: 0;
+  background-position: center;
+  background-size: cover;
+  margin-left: -15px;
+}
+
+.cont-4 {
+  width: 70%;
+  height: 284px;
+  margin-left: 15%;
+  margin-top: -333px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  border: 2px solid #FFF;
+  background: linear-gradient(93deg, rgba(0, 0, 0, 0.70) 0.26%, rgba(62, 71, 79, 0.68) 99.77%);
+}
+
+.btn7 {
+  display: flex;
+  width: 209px;
+  height: 53px;
+  margin-top: 52px;
+  margin-left: 40%;
+  padding: 17px 8px;
+  justify-content: center;
+  align-items: center;
+  gap: 11px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  border: 2px solid #FFF;
+}
+
+footer {
+  width: 100%;
+  height: 449px;
+  flex-shrink: 0;
+  background-color: #2f333c;
+}
+ .medialogo {
+  margin-left: 47%;
+  margin-right: 25%;
+ }

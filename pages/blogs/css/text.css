@@ -1,0 +1,279 @@
+.text-wrapper-1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Times New Roman-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 39.8px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  
+  .text-wrapper-2 {
+    left: 71px;
+    font-family: "DM Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    position: absolute;
+    top: -1px;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+.text-wrapper-3 {
+    left: 163px;
+    font-family: "DM Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    position: absolute;
+    top: -1px;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+.text-wrapper-4 {
+    left: 0;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    position: absolute;
+    top: -1px;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+.text-wrapper-5 {
+    left: 251px;
+    font-family: "DM Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    position: absolute;
+    top: -1px;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  
+.text-wrapper-6 {
+    left: 322px;
+    font-family: "DM Sans-Regular", Helvetica;
+    font-weight: 700;
+    color: #673E66;
+    position: absolute;
+    top: -1px;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+.text-wrapper-7 {
+    position: absolute;
+    top: -1px;
+    left: 387px;
+    font-family: "DM Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+ .text-1 {
+  color: #FFF;
+  text-align: center;
+  font-family: "DM Sans";
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -220px;            
+ } 
+
+ .text-2 {
+  color: #FFF;
+  font-family: "DM Sans";
+  font-size: 18.526px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+ }
+
+ .text-3 {
+  color: #0D155C;
+  font-family: "DM Sans";
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+ }
+
+ .text-4 {
+  color: #000;
+  font-family: "DM Sans";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 85px;
+ }
+
+ .text-5 {
+  color: rgba(0, 0, 0, 0.42);
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+ }
+
+ 
+.text-29 {
+  color: #FFF;
+  font-family: "DM Sans";
+  margin-top: 52px;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.text-30 {
+  color: #FFF;
+  font-family: "DM Sans";
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.text-31 {
+  margin-top: 57px;
+  color: #FFF;
+  font-family: "Times New Roman";
+  font-size: 69.189px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 15%;
+}
+
+.text-32 {
+  color: #FFF;
+  text-align: center;
+  font-family: "Times New Roman";
+  font-size: 8.124px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -64px;
+  margin-left: 55px;
+}
+
+.text-33 {
+  color: #FFF;
+  text-align: center;
+  font-family: "Times New Roman";
+  font-size: 8.124px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -56px;
+  margin-left: 60px;
+}
+
+.text-34 {
+  width: 121px;
+  height: 21px;
+  margin-top: 84px;
+  margin-left: 15%;
+  color: #FFF;
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.text-35 {
+  width: 329px;
+  height: 63px;
+  margin-top: 4px;
+  margin-left: 15%;
+  color: rgba(255, 255, 255, 0.53);
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.text-36 {
+  margin-top: 105px;
+  color: #FFF;
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.text-37 {
+  width: 93px;
+  height: 106px;
+  margin-top: 9px;
+  flex-shrink: 0;
+  color: rgba(255, 255, 255, 0.53);
+  text-align: center;
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.text-38 {
+  color: #FFF;
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 0;
+}
+
+.text-39 {
+  color: rgba(255, 255, 255, 0.53);
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.text-40 {
+  color: #FFF;
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 100px;
+}
+
+.text-41 {
+  color: #FFF;
+  text-align: center;
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 65px;
+}

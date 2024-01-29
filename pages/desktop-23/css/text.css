@@ -1,0 +1,245 @@
+.text-1 {
+    color: #FFF;
+    font-family: "Times New Roman";
+    font-size: 45.726px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 88%;
+    margin-top: -5%;
+}
+
+.text-2 {
+    color: #FFF;
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 5.369px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 50px;
+    margin-left: 45%;
+    margin-top: -20%;
+}
+
+.text-3 {
+    width: 355px;
+    height: 64px;
+    color: #FFF;
+    font-family: "DM Sans";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 109px;
+    margin-left: 30%;
+}
+
+.text-4 {
+    color: #FFF;
+    font-family: "DM Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 8.5%;
+    margin-top: 54px;
+}
+
+.text-5 {
+    color: rgba(255, 255, 255, 0.77);
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 8.5%;
+}
+
+.text-6 {
+    color: #FFF;
+    font-family: "DM Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 50%;
+    margin-top: 8px;
+}
+
+.text-7 {
+    color: rgba(255, 255, 255, 0.77);
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 50%;
+    margin-top: 49px;
+    margin-bottom: 0;
+}
+
+.text-8 {
+    color: #FFF;
+    font-family: "DM Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 50%;
+    margin-top: 13px;
+    width: 250px;
+    margin-bottom: -35px;
+}
+
+.text-9 {
+    color: #FFF;
+    font-family: "DM Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 8%;
+    margin-top: 166px;
+    width: 250px;
+    margin-bottom: -35px;
+}
+
+.text-10 {
+    color: rgba(255, 255, 255, 0.77);
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 8%;
+    width: 300px;
+    height: 144px;
+    margin-top: 49px;
+    margin-bottom: 0;
+}
+
+.text-31 {
+    margin-top: 57px;
+    color: #FFF;
+    font-family: "Times New Roman";
+    font-size: 69.189px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 15%;
+  }
+  
+  .text-32 {
+    color: #FFF;
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 8.124px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -64px;
+    margin-left: 55px;
+  }
+  
+  .text-33 {
+    color: #FFF;
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 8.124px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -56px;
+    margin-left: 60px;
+  }
+  
+  .text-34 {
+    width: 121px;
+    height: 21px;
+    margin-top: 84px;
+    margin-left: 15%;
+    color: #FFF;
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  
+  .text-35 {
+    width: 329px;
+    height: 63px;
+    margin-top: 4px;
+    margin-left: 15%;
+    color: rgba(255, 255, 255, 0.53);
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .text-36 {
+    margin-top: 105px;
+    color: #FFF;
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  
+  .text-37 {
+    width: 93px;
+    height: 106px;
+    margin-top: 9px;
+    flex-shrink: 0;
+    color: rgba(255, 255, 255, 0.53);
+    text-align: center;
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .text-38 {
+    color: #FFF;
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 0;
+  }
+  
+  .text-39 {
+    color: rgba(255, 255, 255, 0.53);
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .text-40 {
+    color: #FFF;
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 100px;
+  }
+  
+  .text-41 {
+    color: #FFF;
+    text-align: center;
+    font-family: "DM Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 65px;
+  }
