@@ -189,19 +189,6 @@ body {
     left: 309px;
   }
   
-  /* .frame .linked-get-in-touch-2 {
-    top: 287px;
-    left: 80px;
-    font-family: "Helvetica-Regular", Helvetica;
-    font-weight: 400;
-    color: #3e474fd4;
-    position: absolute;
-    height: 21px;
-    font-size: 13.1px;
-    letter-spacing: 0;
-    line-height: 21.7px;
-    white-space: nowrap;
-  } */
   
   .frame .rectangle-2 {
     position: absolute;
@@ -211,24 +198,6 @@ body {
     left: 80px;
     background-color: #3e474fd4;
   }
-  
-  /* .frame .rectangle-3 {
-    position: absolute;
-    width: 364px;
-    height: 1px;
-    top: 270px;
-    left: 80px;
-    background-color: #3e474fd4;
-  }
-  
-  .frame .rectangle-4 {
-    position: absolute;
-    width: 364px;
-    height: 1px;
-    top: 417px;
-    left: 80px;
-    background-color: #3e474fd4;
-  } */
   
   .frame .rectangle-5 {
     position: absolute;

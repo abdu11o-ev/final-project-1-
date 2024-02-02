@@ -52,7 +52,7 @@ main {
   width: 100%;
   height: 510px;
   flex-shrink: 0;
-  background-image: url(../images/Rectangle\ 55\ \(2\).png);
+  background-image: url(../images/hero-bg.png);
   background-size: cover;
   background-position: center;
 }
@@ -102,7 +102,7 @@ main {
   width: 650px;
   height: 512px;
   flex-shrink: 0;
-  background-image: url(../images/Rectangle\ 108.jpg);
+  background-image: url(../images/productivity.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
@@ -181,7 +181,7 @@ main {
   width: 450px;
   height: 373px;
   flex-shrink: 0;
-  background: url(../images/Rectangle\ 110.png);
+  background: url(../images/consulting.png);
   background-position: center;
   background-size: cover;
 }
@@ -206,7 +206,7 @@ main {
   width: 450px;
   height: 373px;
   flex-shrink: 0;
-  background: url(../images/Rectangle\ 110\ \(1\).png);
+  background: url(../images/branding.png);
   background-position: center;
   background-size: cover;
 }
@@ -215,7 +215,7 @@ main {
   width: 450px;
   height: 373px;
   flex-shrink: 0;
-  background: url(../images/Rectangle\ 110\ \(2\).png);
+  background: url(../images/adversting.png);
   background-position: center;
   background-size: cover;
 }
@@ -224,7 +224,7 @@ main {
   width: 450px;
   height: 373px;
   flex-shrink: 0;
-  background: url(../images/Rectangle\ 110\ \(1\).png);
+  background: url(../images/branding.png);
   background-position: center;
   background-size: cover;
 }
@@ -233,7 +233,7 @@ main {
   width: 450px;
   height: 373px;
   flex-shrink: 0;
-  background: url(../images/Rectangle\ 110\ \(3\).png);
+  background: url(../images/web-design.png);
   background-position: center;
   background-size: cover;
 }
@@ -267,7 +267,7 @@ main {
 }
 
 .cont-7 {
-  background-image: url(../images/Rectangle\ 73.jpg);
+  background-image: url(../images/contact-us-bg.jpg);
   width: 100%;
   height: 383px;
   flex-shrink: 0;

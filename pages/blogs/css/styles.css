@@ -51,7 +51,7 @@ main {
 .img-1 {
   width: 100%;
   height: 288px;
-  background-image: url(../images/Rectangle\ 55.png);
+  background-image: url(../images/hero-bg.png);
 }
 
 
@@ -110,7 +110,7 @@ main {
 } 
 
 .cont-3 {
-  background-image: url(../images/Rectangle\ 73.jpg);
+  background-image: url(../images/contactus-bg.jpg);
   width: 102%;
   height: 383px;
   flex-shrink: 0;

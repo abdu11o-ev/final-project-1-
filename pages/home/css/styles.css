@@ -44,14 +44,13 @@ body {
   }
 
 main {
-  height: 7415px;
+  height: 7619px;
 }
 
   .img1 {
     width: 100%;
     height: 547px;
-    background-image: url(../images/Rectangle\ 55.png);
-    /* flex-shrink: 0; */
+    background-image: url(../images/hero-img.png);
   }
 
   .text-1 {
@@ -61,13 +60,13 @@ main {
   .container-1 {
    margin-top: 70vh;
    width: 80%;
-   height: 55vh;
+   height: 120vh;
    flex-shrink: 0;
    margin-left: 10%;
   }
 
   .container-2 {
-    width: 47%;
+    width: 40vw;
     height: 47vh;
     margin-top: 46px;
   }
@@ -87,7 +86,7 @@ main {
   }
 
   .container-4 {
-    width: 50%;
+    width: 40vw;
     height: 55vh;
     flex-shrink: 0;
     border-radius: 7px;
@@ -116,10 +115,9 @@ main {
   }
 
   .container-5 {
-    width: 50%;
+    width: 40vw;
     height: 55vh;
-    margin-left: 23px;
-    flex-shrink: 0;
+    margin-left: -5px;
     border-radius: 6px;
     background: #2F333C;
   }
@@ -135,13 +133,13 @@ main {
   }
 
   .svg-2 {
-    margin-left: 33.4vw;
+    margin-left: 33.9vw;
     margin-top: -59px;
   }
 
   .svg-3 {
-    margin-top: -47px;
-    margin-left: -12px;
+    margin-top: -54px;
+    margin-left: -11px;
   }
 
   .container2 {
@@ -257,7 +255,7 @@ main {
   height: 490px;
   flex-shrink: 0;
   border-radius: 6px;
-  background-image: url(../images/Rectangle\ 64.png);
+  background-image: url(../images/goyalandco.png);
 }
 
 .container-13 {
@@ -288,7 +286,7 @@ main {
   width: 556px;
   height: 490px;
   flex-shrink: 0;
-  background-image: url(../images/Rectangle\ 65.png);
+  background-image: url(../images/astraladhesives.png);
   background-position: cover;
   background-repeat: no-repeat;
   background-size: cover;
@@ -320,7 +318,7 @@ main {
   width: 100%;
   height: 1232.061px;
   flex-shrink: 0;
-  background: url(../images/MacBook\ Pro\ 16_\ -\ 1.png);
+  background: url(../images/photos.png);
 }
 
 .container-18 {
@@ -328,7 +326,7 @@ main {
   width: 100%;
   height: 695px;
   flex-shrink: 0;
-  background-image: url(../images/Rectangle\ 67.png);
+  background-image: url(../images/comment-image.png);
 }
 
 .cont1 {
@@ -389,6 +387,7 @@ main {
   flex-shrink: 0;
   border-radius: 7px;
   background: #673E66;
+  margin-top: 69px;
 }
 
 .cont-2 {
@@ -413,7 +412,7 @@ main {
 }
 
 .cont-3 {
-  background-image: url(../images/Rectangle\ 73.jpg);
+  background-image: url(../images/contact-us-img.jpg);
   width: 100%;
   height: 383px;
   flex-shrink: 0;
@@ -460,7 +459,7 @@ footer {
   margin-right: 25%;
  }
 
-.overflow-x-scroll {
+ .overflow-x-scroll {
   overflow-x: scroll;
 }
 
