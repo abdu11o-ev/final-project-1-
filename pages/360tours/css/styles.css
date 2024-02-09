@@ -4,7 +4,7 @@
 
 body {
   width: 100%;
-  height: 4230px;
+  min-height: 4230px;
 }
   
 .group-1 {
@@ -45,7 +45,7 @@ body {
 
 main {
     width: 100%;
-    height: 3719px;
+    min-height: 3819px;
 }
 
   .img-1 {

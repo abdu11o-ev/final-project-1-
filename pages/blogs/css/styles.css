@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif;
 }
 
 body {
@@ -154,4 +155,8 @@ footer {
  .medialogo {
   margin-left: 47%;
   margin-right: 25%;
+ }
+
+ .positionsti {
+  position: sticky;
  }
